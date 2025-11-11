@@ -1,0 +1,17 @@
+[
+  {
+    "stock_name": "Tesla Inc",
+    "ticker": "TSLA",
+    "investor_name": "JaneDoeInvestor",
+    "investor_stats": {
+      "return_12m": 24.6,
+      "risk_score": 4
+    },
+    "post_content": "Tesla's innovation is driving the EV market forward!",
+    "comment_text": "Agreed, strong fundamentals!",
+    "likes_count": 153,
+    "post_date": "2025-03-22T14:30:00Z",
+    "category": "Automotive",
+    "source_url": "https://www.etoro.com/discover/markets/tsla"
+  }
+]
