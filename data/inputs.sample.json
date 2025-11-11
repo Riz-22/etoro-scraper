@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://www.etoro.com/discover/markets/tsla",
+    "category": "Automotive",
+    "notes": "Tesla market discovery page – used to extract stock-level details."
+  },
+  {
+    "url": "https://www.etoro.com/people/sampleinvestor",
+    "category": "Investor",
+    "notes": "Sample investor profile – used to extract investor stats."
+  },
+  {
+    "url": "https://www.etoro.com/feed",
+    "category": "Feed",
+    "notes": "General posts/comments feed – used to extract sentiment data."
+  }
+]
