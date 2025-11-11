@@ -1,0 +1,10 @@
+{
+  "input_file": "data/inputs.sample.json",
+  "output_json": "data/output.sample.json",
+  "output_csv": "data/output.sample.csv",
+  "http": {
+    "timeout": 12,
+    "user_agent": "EtoroScraper/1.0 (+https://bitbash.dev; contact=sale@bitbash.dev)"
+  },
+  "log_level": "INFO"
+}
